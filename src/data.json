@@ -1,0 +1,65 @@
+{
+  "SearchTerm":"Dinesh Thakur",
+  "ProfileIcon":"https://dummyimage.com/100x100.png?text=DT",
+  "ResultCount":"49,800",
+  "TimeTaken":"0.37",
+  "InfoCard": {
+    "NameOccupation": {
+      "date": "01/01/2020",
+      "name": "Dinesh Thakur",
+      "occupation": "Student"
+    },
+    "AboutData": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa, quaerat! Quis ut odit blanditiis natus, labore a nisi culpa eum sed ipsam assumenda aperiam illo molestias, quos quaerat fugit? Dolor quisquam sunt commodi itaque consequuntur iure, impedit aperiam laudantium non eius, illo, dignissimos velit rem voluptatum officia aut earum saepe.",
+    "ItemData": [
+      {
+        "img": "http://unsplash.it/600?random&gravity=center",
+        "title": "Random",
+        "rows": 2,
+        "cols": 2
+      },
+      {
+        "img": "http://unsplash.it/600?random&gravity=center",
+        "title": "Random"
+      },
+      {
+        "img": "http://unsplash.it/600?random&gravity=center",
+        "title": "Random"
+      },
+      {
+        "img": "http://unsplash.it/600?random&gravity=center",
+        "title": "Random"
+      },
+      {
+        "img": "http://unsplash.it/600?random&gravity=center",
+        "title": "Random"
+      }
+    ]
+  },
+  "Links": [
+    {
+      "Title": "Google",
+      "link": "https://www.google.com",
+      "SubTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias optio aperiam, cumque corporis quidem rem ab aliquid? Voluptatibus alias minima ad possimus iusto eos!"
+    },
+    {
+      "Title": "Facebook",
+      "link": "https://www.facebook.com",
+      "SubTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias optio aperiam, cumque corporis quidem rem ab aliquid? Voluptatibus alias minima ad possimus iusto eos!"
+    },
+    {
+      "Title": "LinkedIn",
+      "link": "https://www.Linkedin.com",
+      "SubTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias optio aperiam, cumque corporis quidem rem ab aliquid? Voluptatibus alias minima ad possimus iusto eos!"
+    },
+    {
+      "Title": "Twitter",
+      "link": "https://www.twitter.com",
+      "SubTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias optio aperiam, cumque corporis quidem rem ab aliquid? Voluptatibus alias minima ad possimus iusto eos!"
+    },
+    {
+      "Title": "Instagram",
+      "link": "https://www.instagram.com",
+      "SubTitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias optio aperiam, cumque corporis quidem rem ab aliquid? Voluptatibus alias minima ad possimus iusto eos!"
+    }
+  ]
+}
